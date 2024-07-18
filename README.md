@@ -1,6 +1,10 @@
 # 머신러닝 관련 환경설정
 - python 3.11 버전 이상
 
+## 변경사항
+- mglearn의 plot_animal_tree()에서 하글처리가 안되는 점은 수정
+  - 단,
+
 ## pip 설치
 - python 외장 라이브러리 패키지 설치
 - pip install numpy scipy scikit-learn matplotlib ipython pandas pillow imageio graphviz
